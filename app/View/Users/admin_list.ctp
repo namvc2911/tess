@@ -50,6 +50,7 @@ $(document).ready(function() {
                                         <th>Email</th>
                                         <th>Action</th>
                                     </tr>
+									rtetygsd
                                 </thead>
                                 <tbody>
                                     <?php foreach($users as $key => $val){
